@@ -1,2 +1,2 @@
 # pagina-captura-
-desenvolvimento de uma pagina que captura os dados através de um, formulário e utiliza o MailChimp como back-end
+desenvolvimento de uma pagina que captura os dado  atraves de um formulario e utiliza MailChinps com back-end 
